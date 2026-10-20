@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: article
+title: "[Research Title]"
+authors:
+  - family-names: "González Bonilla"
+    given-names: "Jesús Ariel"
+license: CC-BY-4.0
+repository-code: "https://github.com/jesusarielgb-works/[repo-name]"
