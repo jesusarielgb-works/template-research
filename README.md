@@ -5,7 +5,7 @@
 
 > One-line description of research question.
 
-**Author:** [Jesus Ariel Gonzalez Bonilla](https://github.com/jesusarielgb-works)
+**Author:** [Jesús Ariel González Bonilla](https://github.com/jesusarielgb-works)
 **Date:** YYYY-MM-DD | **Status:** Draft
 
 ## Abstract
@@ -16,8 +16,10 @@
 
 ## How to Cite
 
-> Gonzalez Bonilla, J. A. (YYYY). *[Research Title]*. jesusarielgb-works. https://github.com/jesusarielgb-works/[repo-name]
+> González Bonilla, J. A. (YYYY). *[Research Title]*. jesusarielgb-works. https://github.com/jesusarielgb-works/[repo-name]
+
+See also [`CITATION.cff`](CITATION.cff).
 
 ## License
 
-MIT — Jesus Ariel Gonzalez Bonilla. See [LICENSE](LICENSE).
+Text: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/). Code and scripts: MIT — see [LICENSE](LICENSE).
